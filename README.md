@@ -1,12 +1,12 @@
 ## ℕ𝕠𝕥 𝕒 𝕧𝕖𝕣𝕪 𝕘𝕠𝕠𝕕 ℝ𝔼𝔸𝔻𝕄𝔼
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&pause=1000&center=true&vCenter=true&random=true&width=800&height=80&lines=His+rough+behavior+chilled+my+hopes+to+make+friends+with+him;maybe...+i'm...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&pause=1000&center=true&vCenter=true&random=true&width=800&height=64&lines=His+rough+behavior+chilled+my+hopes+to+make+friends+with+him;maybe...+i'm...)](https://git.io/typing-svg)
 
 ---
 
 ### 👨‍💻 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=50&color=F73163&background=4513FF00&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Web+Designer+%26+Mod+Maker+Creator+-+crafting+web+interfaces;+and+game+mods)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=50&color=F73163&background=4513FF00&center=true&vCenter=true&multiline=true&width=800&height=64&lines=Web+Designer+%26+Mod+Maker+Creator+-+crafting+web+interfaces;+and+game+mods)](https://git.io/typing-svg)
 
 ### 🛠️ 𝕎𝕖𝕓 𝕊𝕥𝕒𝕔𝕜
 
