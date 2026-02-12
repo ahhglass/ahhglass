@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&pause=1000&center=true&vCenter=true&random=true&width=800&height=80&lines=His+rough+behavior+chilled+my+hopes+to+make+friends+with+him;maybe...+i'm...)](https://git.io/typing-svg)
+
 <!--
 **ahhglass/ahhglass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
