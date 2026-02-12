@@ -6,7 +6,7 @@
 
 ### 👨‍💻 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=50&color=F73163&background=4513FF00&center=true&vCenter=true&multiline=true&width=800&height=64&lines=Web+Designer+%26+Mod+Maker+Creator+-+crafting+web+interfaces;+and+game+mods)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=10&color=F73163&background=4513FF00&center=true&multiline=true&width=800&height=60&lines=Web+Designer+%26+Mod+Maker+Creator+-+crafting+web+interfaces;+and+game+mods)](https://git.io/typing-svg)
 
 ### 🛠️ 𝕎𝕖𝕓 𝕊𝕥𝕒𝕔𝕜
 
