@@ -8,6 +8,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=10&color=F73163&background=4513FF00&center=true&multiline=true&width=800&height=60&lines=Web+Designer+%26+Mod+Maker+Creator+-+crafting+web+interfaces;+and+game+mods)](https://git.io/typing-svg)
 
+I started programming out of curiosity about how games work internally. At the age of 15–16, I became fascinated with creating mods for games, which led me to explore various game engines like Godot, Unity, Unreal Engine, and GameMaker. I spent time tinkering with them, learning their inner workings.
+
+Later, I enrolled in a 4-year college program focused on web design and development, where I deepened my knowledge in HTML, CSS, JavaScript, TypeScript, and PHP. 
+
+Today, I still enjoy building websites — both for my portfolio and for clients — as well as contributing to game mod development. I'm always eager to gain more experience in these fields.
+
 ### 🛠️ 𝕎𝕖𝕓 𝕊𝕥𝕒𝕔𝕜
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
